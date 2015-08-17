@@ -80,7 +80,7 @@
                     this.cb();
                 },
 
-                then: function( cb )Â {
+                then: function( cb ) {
                     this.cb = cb;
                 }
 
